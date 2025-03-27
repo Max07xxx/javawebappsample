@@ -1,4 +1,4 @@
-package ms.kenchen.Calculator;
+package ms.kenchen;
 
 import java.util.Date;
 
